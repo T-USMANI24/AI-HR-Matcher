@@ -64,26 +64,6 @@ Storage: In-memory (can extend to DB later)
 
 Explainability: Custom logs + visualizations
 
-## 📂 Project Structure
-
-📦 Candidate-Matching-Agent
- Candidate-Matching-Agent/
-'''│── app.py # Streamlit frontend
-│── agent.py # RL agent core logic
-│── backend.py # FastAPI backend server
-│── requirements.txt # Python dependencies
-│── README.md # Documentation
-│
-├── data/ # Sample CVs and JDs
-│ ├── sample_jd.txt
-│ ├── sample_cv1.txt
-│ └── sample_cv2.txt
-│
-├── logs/ # Explainability & feedback logs
-│ └── agent_logs.json
-│
-└── Dockerfile'''
-
 1️⃣ Create Virtual Environment
 python -m venv venv
 source venv/bin/activate   # Mac/Linux
