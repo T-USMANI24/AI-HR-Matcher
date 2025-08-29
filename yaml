@@ -1,0 +1,24 @@
+
+---
+
+### 📄 `CV-JD/Reflection.md`
+```markdown
+# Reflection – MDVP (Humility, Gratitude, Integrity)
+
+**Humility**
+- The agent adjusts weights only after recruiter feedback.
+- All actions are logged transparently.
+
+**Gratitude**
+- Feedback is persisted and surfaced in explain logs.
+- `/agent/mdvp` explicitly thanks human guidance.
+
+**Integrity**
+- Scoring is explainable and auditable.
+- DB + CSV persistence ensures reproducibility.
+
+**Daily Value Push**
+- Day 1: CV–JD matching
+- Day 2: Values + Sentiment scoring
+- Day 3: RL loop with reward updates
+- Day 4: Productionized service (APIs + Docker)

@@ -1,0 +1,45 @@
+ob Title: Data Analyst
+Location: [Company HQ or Remote] Department: Business Intelligence / Analytics Employment Type: Full-time
+Qualification : B.tech
+
+🧠 Job Summary
+We are looking for a detail-oriented Data Analyst to collect, process, and analyze data to help drive strategic decisions. You’ll work closely with cross-functional teams to uncover insights, build dashboards, and support data-driven initiatives across the organization.
+
+🛠️ Key Responsibilities
+Collect and clean data from multiple sources (databases, APIs, spreadsheets)
+
+Perform exploratory data analysis (EDA) to identify trends, patterns, and anomalies
+
+Build dashboards and reports using tools like Tableau, Power BI, or Excel
+
+Collaborate with marketing, finance, and product teams to understand data needs
+
+Create scripts to automate data collection and transformation
+
+Interpret results using statistical techniques and provide actionable recommendations
+
+Maintain and optimize data pipelines and storage systems
+
+Ensure data integrity, privacy, and compliance with internal policies
+
+🎓 Required Qualifications
+Bachelor’s degree in Statistics, Mathematics, Computer Science, or related field
+
+1–3 years of experience in data analysis or business intelligence
+
+Proficiency in SQL and Python (pandas, NumPy, matplotlib)
+
+Familiarity with data visualization tools (e.g., Tableau, Power BI)
+
+Strong analytical and problem-solving skills
+
+Excellent communication and presentation abilities
+
+🌟 Preferred Skills
+Experience with cloud platforms (AWS, GCP, Azure)
+
+Knowledge of statistical modeling or machine learning basics
+
+Understanding of business KPIs and financial metrics
+
+Ability to work independently and manage multiple projects

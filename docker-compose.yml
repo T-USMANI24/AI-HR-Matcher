@@ -1,0 +1,15 @@
+services:
+  agent:
+    build: .
+    container_name: talha-agent
+    environment:
+      - PORT=8000
+      - RL_LR=0.1
+      - TFIDF_MAX_FEATURES=20000
+      - DATABASE_URL=sqlite:///models/agent.db
+    volumes:
+      - ./models:/app/models
+      - ./logs:/app/logs
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
